@@ -96,3 +96,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+# ---Gantt Charts ----
+
+st.markdown("""<a href="https://gantt-chart-catsci.streamlit.app/" target="_blank">
+    <div id="b">
+        Gantt Chart Generator
+    </div>
+</a>
+""", unsafe_allow_html=True)
