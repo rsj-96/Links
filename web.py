@@ -104,3 +104,15 @@ st.markdown("""<a href="https://gantt-chart-catsci.streamlit.app/" target="_blan
     </div>
 </a>
 """, unsafe_allow_html=True)
+
+#------Gas Evolution calculator --------
+
+st.markdown("""
+
+
+<a href="https://gas-evolution-calculator.streamlit.app/" target="_blank">
+    <div id="a">
+        Gas Evolution Calculator
+    </div>
+</a>
+""", unsafe_allow_html=True)
