@@ -66,12 +66,15 @@ st.markdown("""
 
 
 #-- PE's LC TABLE GENERATOR --
-st.markdown("""<a href="https://lc-data.streamlit.app/" target="_blank">
+st.markdown("""<a href="https://lc-text-to-excel.streamlit.app/" target="_blank">
     <div id="a">
         LC Processor and Table Generator
     </div>
 </a>
 """, unsafe_allow_html=True)
+
+#https://lc-text-to-excel.streamlit.app/
+#https://lc-data.streamlit.app/
 
 # --- PM's RT predictor ---
 
